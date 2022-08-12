@@ -1,2 +1,2 @@
-# Project_Riker_Code
-The codebase for the Project_Riker game.
+# Mechanics
+For now, push all of your changes to this branch, before we push them to main.
