@@ -1,0 +1,10 @@
+﻿  DrivingFile.cpp
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\AI_Mechanics.h(12,14): error C3646: 'enemy': unknown override specifier
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\AI_Mechanics.h(12,19): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\EnemyClass.h(17,13): error C3646: 'stats': unknown override specifier
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\EnemyClass.h(17,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\EnemyClass.h(22,23): error C2065: 'stats': undeclared identifier
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\EnemyClass.h(22,40): error C2065: 'stats': undeclared identifier
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\Stats.h(33,54): error C2504: 'Movement': base class undefined
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\Stats.h(42,3): error C2065: 'maxMovementSpeed': undeclared identifier
+C:\Users\mbutl\source\repos\Project_Riker\Project_Riker\Stats.h(145,50): error C2504: 'Movement': base class undefined
